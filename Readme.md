@@ -17,5 +17,5 @@ The measurements were taken by me on 2017-09-11.  Both measurments are 60 second
 
 to use the files for reading.
 
-    system.file("extdata", "breath.h5", package = "testdat")
-    system.file("extdata", "room_air.h5", package = "testdat")
+    system.file("extdata", "breath.h5", package = "tofExampleData")
+    system.file("extdata", "room_air.h5", package = "tofExampleData")
