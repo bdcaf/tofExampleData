@@ -1,0 +1,10 @@
+Package: tofExampleData
+Title: Contains data for use with the TOF software
+Version: 0.0.0.9000
+Authors@R: person("Clemens", "Ager", email = "clemens.ager@uibk.ac.at", role = c("aut", "cre"))
+Description: Data for testing and building vignettes for TOF MS tools
+Depends: R (>= 3.4.1)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+NeedsCompilation: no
