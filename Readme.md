@@ -1,5 +1,8 @@
 # tofExampleData
 
+** This is an outdated package. ** Its purpose always only was to provide data for the `rawTof` and `tofTools` vignettes and tests. Do no longer use this package.
+
+
 A package to hold just PTR-TOF data files to test and build
 vignettes in other packages.
 
